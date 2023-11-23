@@ -1,1 +1,1 @@
-We collaboratively maintain [django-recaptcha](https://github.com/django-recaptcha/django-recaptcha), an integration of [reCAPTCHA](https://www.google.com/recaptcha/about/) for Django projects.
+We collaboratively maintain [django-recaptcha](https://github.com/django-recaptcha/django-recaptcha), an integration of [reCAPTCHA](https://www.google.com/recaptcha/about/) for Django projects. Come say hi in [Discussions](https://github.com/orgs/django-recaptcha/discussions)!
